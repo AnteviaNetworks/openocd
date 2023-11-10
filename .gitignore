@@ -74,6 +74,7 @@ stamp-h1
 stamp-vti
 INSTALL
 NOTES
+build
 
 # coexist with quilt
 patches
